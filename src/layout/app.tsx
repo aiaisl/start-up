@@ -1,13 +1,13 @@
 import Simple from 'app/simple/simple';
 import * as React from 'react';
-import './App.css';
+import './styles/App.css';
 
 class App extends React.Component {
   public render() {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Welcome to React 2</h1>
+          <h1 className="App-title">Welcome to React 3</h1>
         </header>
         <p className="App-intro">
           <Simple />
